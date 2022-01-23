@@ -37,6 +37,9 @@ body {
 .pb {
   padding-bottom: 150px;
 }
+.start-75 {
+  left: 75%;
+}
 
 @media screen and (max-width: 992px) {
   .bottom {
